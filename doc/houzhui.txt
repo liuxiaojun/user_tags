@@ -1,0 +1,17 @@
+1.需要排除的文件格式
+.css .js
+
+视频
+.avi 
+
+文档：
+.txt .doc .hlp .wps .rtf .pdf .xls .mdf
+
+压缩文件：
+.rar .zip .arj .gz
+
+图形文件：
+.bmp .gif .jpg .pic .png .tif
+
+声音文件
+.wav .aif .au .mp3 .ram .wma .mmf .amr .aac .flac 
